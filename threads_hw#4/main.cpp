@@ -103,8 +103,7 @@ void* VisitorFunc(void* param) {
        }
     pthread_mutex_unlock(&mutex);
        if (isRoomHaveFound) {
-           int y= rand()%4 + 1;
-           sleep(y);
+           sleep(2);
            std::cout << "\n Visitor: " +
                         to_string(visitor->id + 1) + " vacated the room"
                                                      " \t\t\tclock: " + std::to_string(clock());
