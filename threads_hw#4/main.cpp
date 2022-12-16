@@ -192,5 +192,6 @@ int main() {
     for (unsigned long long visitor_threads: visitors_threads) {
         pthread_join(visitor_threads, nullptr);
     }
+    cout << "\n\nThe hotel was closed!\n";
     return 0;
 }
