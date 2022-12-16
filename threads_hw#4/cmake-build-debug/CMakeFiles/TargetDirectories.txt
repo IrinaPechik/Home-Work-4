@@ -1,0 +1,3 @@
+C:/Users/lisen/CLionProjects/Architecture/threads_hw#4/cmake-build-debug/CMakeFiles/threads_hw_4.dir
+C:/Users/lisen/CLionProjects/Architecture/threads_hw#4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lisen/CLionProjects/Architecture/threads_hw#4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
